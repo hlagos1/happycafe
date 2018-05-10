@@ -23,6 +23,8 @@
 
 .whatwedo-nav-container > ul > li > a {
   padding: 10px;
-  color: white; }
+  color: white;
+  background: blue;
+  text-align: center; }
 
 /*# sourceMappingURL=page_whatwedostyle.css.map */
