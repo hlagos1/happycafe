@@ -1,0 +1,28 @@
+#content {
+  text-align: center;
+  text-transform: uppercase;
+  color: black; }
+
+.myimage {
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 400px 0; }
+  .myimage h1 {
+    font-weight: bold; }
+
+#statistics {
+  color: black;
+  padding: 200px 0; }
+
+.row {
+  border: blue dashed 10 px; }
+
+.whatwedo-nav-container {
+  background-color: green; }
+
+.whatwedo-nav-container > ul > li > a {
+  padding: 10px;
+  color: white; }
+
+/*# sourceMappingURL=page_whatwedostyle.css.map */
